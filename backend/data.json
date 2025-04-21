@@ -1,0 +1,125 @@
+{
+  "motels": [
+    {
+      "name": "Elite Motel",
+      "description": "A paixão de sempre. Novas experiências.",
+      "location": "Rua da Colina 23, 2710-730, Albarraque, Sintra",
+      "website": "https://www.elitemotel.pt/",
+      "phone": "21 915 4580",
+      "email": "info@elitemotel.pt",
+      "logo": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745064401/motels/fhobqhvzmwvaebtbvjva.png",
+      "rooms": [
+        {
+          "name": "Suíte Tantra Natura",
+          "description": "<span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\">Reservamos únicamente pela ocupação Diária.</span><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\"></span><br style=\"margin: 0px; padding: 0px; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\"><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\">Todas as ocupações reduzidas funcionam por ordem de chegada.</span><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\"></span><br style=\"margin: 0px; padding: 0px; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\"><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\">Todos os valores incluem IVA à taxa legal em vigor.</span><div><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\"><br></span></div><div><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px;\"><div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex\" style=\"margin: 0px; padding: 0px; gap: 2em; display: flex; align-items: center; flex-wrap: nowrap; font-weight: 300;\"><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 70%;\"><div class=\"wp-block-columns bo_discount is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex\" style=\"margin: 0px; padding: 20px 10px 10px 50px; gap: 2em; display: flex; align-items: center; flex-wrap: nowrap; background-color: rgb(201, 236, 233); border-width: 1px; border-color: rgb(201, 236, 233); border-image: initial;\"><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 66.66%;\"><h2 class=\"wp-block-heading bo_tit_caixas_v\" id=\"especial\" style=\"margin-bottom: 20px; padding: 0px; line-height: 1; font-weight: 700; font-size: 25px; color: rgb(41, 178, 165);\">Ofertas</h2><p class=\"bo_before\" style=\"margin-bottom: 20px; padding: 0px;\">Ocupação de&nbsp;<span style=\"margin: 0px; padding: 0px; font-weight: 700;\">4 horas</span>&nbsp;ou mais inclui 2 águas.</p><p class=\"bo_before\" style=\"margin-bottom: 20px; padding: 0px;\">Ocupação de&nbsp;<span style=\"margin: 0px; padding: 0px; font-weight: 700;\">12 horas</span>&nbsp;e&nbsp;<span style=\"margin: 0px; padding: 0px; font-weight: 700;\">Diária</span>&nbsp;inclui&nbsp;<span style=\"margin: 0px; padding: 0px; font-weight: 700;\">oferta</span>&nbsp;de bombons e uma bebida (espumante, cerveja ou refrigerantes).</p><p class=\"bo_before\" style=\"margin-bottom: 20px; padding: 0px;\">Ocupação&nbsp;<span style=\"margin: 0px; padding: 0px; font-weight: 700;\">Diária</span>&nbsp;inclui pequeno almoço simples para dois.</p></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 33.33%;\"><div class=\"wp-block-image\" style=\"margin: 0px; padding: 0px;\"><figure class=\"aligncenter size-large is-resized\" style=\"margin-right: auto; margin-left: auto; padding: 0px; clear: both; display: table; height: auto; width: auto;\"><img decoding=\"async\" width=\"100\" height=\"100\" src=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=500%2C500&amp;ssl=1\" data-src=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=500%2C500&amp;ssl=1\" alt=\"\" class=\"wp-image-452 lazy loaded\" data-srcset=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?w=500&amp;ssl=1 500w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=150%2C150&amp;ssl=1 150w\" data-sizes=\"(max-width: 500px) 100vw, 500px\" sizes=\"(max-width: 500px) 100vw, 500px\" srcset=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?w=500&amp;ssl=1 500w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-check.png?resize=150%2C150&amp;ssl=1 150w\" data-was-processed=\"true\" style=\"margin: 0px; padding: 0px; height: 100px; border: none; width: 100px; min-height: 1px; vertical-align: bottom;\"></figure></div></div></div></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 15%;\"></div></div><div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex\" style=\"margin: 0px; padding: 0px; gap: 2em; display: flex; align-items: center; flex-wrap: nowrap; font-weight: 300;\"><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 15%;\"></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 70%;\"><div class=\"wp-block-columns bo_extraprice is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex\" style=\"margin: 0px; padding: 20px 10px 10px 50px; gap: 2em; display: flex; align-items: center; flex-wrap: nowrap; background-color: rgb(250, 214, 211); border-width: 1px; border-color: rgb(250, 214, 211); border-image: initial;\"><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 66.66%;\"><h2 class=\"wp-block-heading bo_tit_caixas_e\" id=\"extras\" style=\"margin-bottom: 20px; padding: 0px; line-height: 1; font-weight: 700; font-size: 25px; color: rgb(234, 89, 80);\">Extras</h2><p class=\"bo_before\" style=\"margin-bottom: 20px; padding: 0px;\">Os valores apresentados são para 2 pessoas, para pessoas extra acresce o valor da ocupação em<span style=\"margin: 0px; padding: 0px; font-weight: 700;\">&nbsp;+50%</span>&nbsp;por pessoa.</p></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 33.33%;\"><div class=\"wp-block-image\" style=\"margin: 0px; padding: 0px;\"><figure class=\"aligncenter size-large is-resized\" style=\"margin-right: auto; margin-left: auto; padding: 0px; clear: both; display: table; height: auto; width: auto;\"><img decoding=\"async\" width=\"100\" height=\"100\" src=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=500%2C500&amp;ssl=1\" data-src=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=500%2C500&amp;ssl=1\" alt=\"\" class=\"wp-image-453 lazy loaded\" data-srcset=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?w=500&amp;ssl=1 500w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=150%2C150&amp;ssl=1 150w\" data-sizes=\"(max-width: 500px) 100vw, 500px\" sizes=\"(max-width: 500px) 100vw, 500px\" srcset=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?w=500&amp;ssl=1 500w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/01/i-userplus.png?resize=150%2C150&amp;ssl=1 150w\" data-was-processed=\"true\" style=\"margin: 0px; padding: 0px; height: 100px; border: none; width: 100px; min-height: 1px; vertical-align: bottom;\"></figure></div></div></div></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 15%;\"></div></div><div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex\" style=\"margin: 0px; padding: 0px; gap: 2em; display: flex; align-items: center; flex-wrap: nowrap; font-weight: 300;\"><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 15%;\"></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 70%;\"><div class=\"wp-block-columns bo_coronavirus is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex\" style=\"margin: 0px; padding: 20px 10px 10px 50px; gap: 2em; display: flex; align-items: center; flex-wrap: nowrap; background-color: rgb(202, 227, 234); border-width: 1px; border-color: rgb(202, 227, 234); border-image: initial;\"><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 66.66%;\"><h2 class=\"wp-block-heading bo_tit_caixas_p\" id=\"pandemia\" style=\"margin-bottom: 20px; padding: 0px; line-height: 1; font-weight: 700; font-size: 25px; color: rgb(40, 149, 176);\">Higiene e bem estar</h2><p class=\"has-text-align-left\" style=\"margin-bottom: 20px; padding: 0px;\">Para nós é importante a segurança e bem-estar de todos os nossos hóspedes e colaboradores. Após cada ocupação, cada suíte é higienizada e preparada seguindo as melhores práticas e normas. Somos&nbsp;<a text-decoration=\"none\" href=\"https://www.visitportugal.com/en/content/clean-and-safe\" target=\"_blank\" rel=\"noreferrer noopener\" style=\"margin: 0px; padding: 0px; text-decoration-line: none; transition: 0.6s; color: rgb(130, 118, 177);\">Clean &amp; Safe</a>!</p></div><div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"margin: 0px; padding: 0px; flex-grow: 0; min-width: 0px; overflow-wrap: break-word; word-break: break-word; flex-basis: 33.33%;\"><div class=\"wp-block-image\" style=\"margin: 0px; padding: 0px;\"><figure class=\"aligncenter size-thumbnail\" style=\"margin-right: auto; margin-left: auto; padding: 0px; clear: both; display: table; height: auto; width: auto;\"><a href=\"https://www.visitportugal.com/en/content/clean-and-safe\" target=\"_blank\" rel=\"noopener\" style=\"margin: 0px; padding: 0px; text-decoration-line: none; transition: 0.6s; color: rgb(130, 118, 177);\"><img decoding=\"async\" width=\"227\" height=\"227\" src=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=150%2C150&amp;ssl=1\" data-src=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=150%2C150&amp;ssl=1\" alt=\"\" class=\"wp-image-847 lazy loaded\" data-srcset=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?w=1667&amp;ssl=1 1667w\" data-sizes=\"(max-width: 150px) 100vw, 150px\" sizes=\"(max-width: 150px) 100vw, 150px\" srcset=\"https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/www.elitemotel.pt/wp-content/uploads/2021/02/Clean-Safe.png?w=1667&amp;ssl=1 1667w\" data-was-processed=\"true\" style=\"margin: 0px; padding: 0px; border: none; width: 150px; min-height: 1px; vertical-align: bottom;\"></a></figure></div></div></div></div></div></span></div>",
+          "priceOptions": [
+            {
+              "hours": "2 horas ♥\t",
+              "price": 35,
+              "info": "<a style=\"margin: 0px; padding: 0px; text-decoration-line: none; transition: 0.6s; color: rgb(130, 118, 177); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">♥</a><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">&nbsp;A ocupação de&nbsp;</span><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">2 horas</span><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">&nbsp;é válida de domingo a quinta feira, excepto em datas especiais. Não é válida à sexta-feira e sábado entre as 21:30 e as 7:00.</span>"
+            },
+            {
+              "hours": "4 horas",
+              "price": 50
+            },
+            {
+              "hours": "12 horas",
+              "price": 80
+            },
+            {
+              "hours": "Diária ♥♥",
+              "price": 110,
+              "info": "<p><a style=\"margin: 0px; padding: 0px; text-decoration-line: none; transition: 0.6s; color: rgb(130, 118, 177); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">♥♥</a><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">&nbsp;Ocupação&nbsp;</span><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">Diária</span><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">&nbsp;contempla entrada a partir das 15:00 e saída até às 12:00 do dia seguinte.</span></p>"
+            },
+            {
+              "hours": "Pernoite ♥♥♥",
+              "price": 70,
+              "info": "<p><a style=\"margin: 0px; padding: 0px; text-decoration-line: none; transition: 0.6s; color: rgb(130, 118, 177); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">♥♥</a><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\"><a style=\"margin: 0px; padding: 0px; text-decoration-line: none; transition: 0.6s; color: rgb(130, 118, 177);\">♥</a></span><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">&nbsp;A ocupação&nbsp;</span><span style=\"margin: 0px; padding: 0px; font-weight: 700; color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">Especial&nbsp;Pernoite</span><span style=\"color: rgb(135, 135, 135); font-family: Lato; font-size: 16px; background-color: rgb(255, 255, 255);\">&nbsp;é válida de domingo a quinta feira, excepto em datas especiais.&nbsp;Compreende uma ocupação de até 12 horas, com entrada a partir das 21:30 ou saída obrigatória até ao meio dia (para entradas depois da meia-noite). Não inclui bebida de oferta.</span></p>"
+            }
+          ],
+          "amenities": [
+            "Ar Condicionado",
+            "Frigobar",
+            "Hidromassagem",
+            "Chuveiro a Gás",
+            "TV",
+            "Wi-Fi",
+            "Estacionamento",
+            "Suíte",
+            "Cama King Size",
+            "Espelho no Teto",
+            "Som Ambiente",
+            "Piscina",
+            "Sauna",
+            "Varanda",
+            "Banheira"
+          ],
+          "images": [
+            {
+              "url": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745065484/motels/rooms/djchvo6c3bxg1uwssr50.jpg",
+              "public_id": "motels/rooms/djchvo6c3bxg1uwssr50"
+            },
+            {
+              "url": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745065484/motels/rooms/rnmkz2unjsprb1hosf7g.jpg",
+              "public_id": "motels/rooms/rnmkz2unjsprb1hosf7g"
+            },
+            {
+              "url": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745065484/motels/rooms/mccbs2fj1hiccneotftl.jpg",
+              "public_id": "motels/rooms/mccbs2fj1hiccneotftl"
+            },
+            {
+              "url": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745065484/motels/rooms/mwtgimoybdd8oh5eyaxn.jpg",
+              "public_id": "motels/rooms/mwtgimoybdd8oh5eyaxn"
+            },
+            {
+              "url": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745065484/motels/rooms/qe5wx2o4ephrtgoe4bkz.jpg",
+              "public_id": "motels/rooms/qe5wx2o4ephrtgoe4bkz"
+            },
+            {
+              "url": "https://res.cloudinary.com/dpmvrykvh/image/upload/v1745065484/motels/rooms/nteiynwtjmiqcm55vflm.jpg",
+              "public_id": "motels/rooms/nteiynwtjmiqcm55vflm"
+            }
+          ],
+          "imagesLoading": false,
+          "id": 1745065508117
+        }
+      ],
+      "logo_id": "motels/fhobqhvzmwvaebtbvjva",
+      "id": 1745064495128
+    },
+    {
+      "id": 1745140830292,
+      "name": "Classic Motel",
+      "website": "https://classic-motel.com/",
+      "phone": "219605260",
+      "email": "NA",
+      "logo": "https://classic-motel.com/wp-content/uploads/2021/04/ClassicMotel_Logo-BK.png",
+      "rooms": []
+    },
+    {
+      "id": 1745140830297,
+      "name": "Orly Motel",
+      "website": "www.moteishorly.pt",
+      "phone": "253 607 607",
+      "email": "moteishorly@moteishorly.pt",
+      "logo": "https://www.moteishorly.pt/wp-content/uploads/2022/11/logo-horly-motel-novo.png",
+      "rooms": []
+    }
+  ],
+  "siteSettings": {
+    "siteName": "Portal de Motéis",
+    "logo": null,
+    "footerText": "© 2024 Portal de Motéis. Todos os direitos reservados.",
+    "contactEmail": "contato@portaldemoteis.com",
+    "contactPhone": "(11) 99999-9999"
+  },
+  "users": [
+    {
+      "id": 1687245871234,
+      "username": "admin",
+      "password": "$2b$10$3Qm8Ry0hzS5oQyBVJAzOxuGnPfOQcqVnwm5CnP3d.AQT1YgEVhXnC",
+      "name": "Administrador",
+      "createdAt": "2023-06-20T10:30:45.123Z"
+    }
+  ]
+}

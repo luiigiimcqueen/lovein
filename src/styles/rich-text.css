@@ -1,0 +1,81 @@
+/* Estilos para o editor de texto rico */
+.rich-text-editor .toolbar button {
+  min-width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.rich-text-editor .content {
+  min-height: 100px;
+  line-height: 1.5;
+}
+
+.rich-text-editor .content:empty:before {
+  content: attr(placeholder);
+  color: #9ca3af;
+  pointer-events: none;
+}
+
+.rich-text-editor .content:focus {
+  outline: none;
+  border-color: #9333ea;
+}
+
+/* Estilos para conteúdo formatado */
+.rich-text-content,
+.rich-text-editor .content {
+  line-height: 1.6;
+}
+
+.rich-text-content p,
+.rich-text-editor .content p {
+  margin-bottom: 0.75em;
+}
+
+.rich-text-content ul,
+.rich-text-content ol,
+.rich-text-editor .content ul,
+.rich-text-editor .content ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.rich-text-content ul,
+.rich-text-editor .content ul {
+  list-style-type: disc;
+}
+
+.rich-text-content ol,
+.rich-text-editor .content ol {
+  list-style-type: decimal;
+}
+
+.rich-text-content li,
+.rich-text-editor .content li {
+  margin-bottom: 0.25em;
+}
+
+.rich-text-content a,
+.rich-text-editor .content a {
+  color: #9333ea;
+  text-decoration: underline;
+}
+
+.rich-text-content a:hover,
+.rich-text-editor .content a:hover {
+  color: #7e22ce;
+}
+
+.rich-text-content strong,
+.rich-text-editor .content strong {
+  font-weight: 600;
+}
+
+.rich-text-content em,
+.rich-text-editor .content em {
+  font-style: italic;
+}
